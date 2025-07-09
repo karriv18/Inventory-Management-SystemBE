@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inmasys.Authentication.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c650a76df7207cbbaee1a79643892f9748b6642")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aef3e2322713bdf8cddeedd17df9627ecf61a6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inmasys.Authentication.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inmasys.Authentication.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
