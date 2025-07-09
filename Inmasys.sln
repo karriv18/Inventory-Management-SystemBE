@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5A409F42-D342-4B21-B75A-75AABF413867}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{E8F5DCC9-EEEB-4F66-9F2E-D01B515CFAF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inmasys.Authentication.Api", "src\Authentication\Inmasys.Authentication.Api\Inmasys.Authentication.Api.csproj", "{F42B30BC-F959-48F9-A21C-3A346952887A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inmasys.Authentication.Contracts", "src\Authentication\Inmasys.Authentication.Contracts\Inmasys.Authentication.Contracts.csproj", "{CFDD2AF8-1FA5-4A93-9F8A-6DF6AF5E6F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inmasys.Authentication.Application", "src\Authentication\Inmasys.Authentication.Application\Inmasys.Authentication.Application.csproj", "{7DCB359C-1CB5-4AAC-BADF-0EB227A9138F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{10F4B188-DB61-48C4-8EEE-AA618D2EF47E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inmasys.Migrator", "src\Database\Inmasys.Migrator\Inmasys.Migrator.csproj", "{5B7BE289-410E-425C-B7FB-B776099C8C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42B30BC-F959-48F9-A21C-3A346952887A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42B30BC-F959-48F9-A21C-3A346952887A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42B30BC-F959-48F9-A21C-3A346952887A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42B30BC-F959-48F9-A21C-3A346952887A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDD2AF8-1FA5-4A93-9F8A-6DF6AF5E6F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDD2AF8-1FA5-4A93-9F8A-6DF6AF5E6F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDD2AF8-1FA5-4A93-9F8A-6DF6AF5E6F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDD2AF8-1FA5-4A93-9F8A-6DF6AF5E6F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCB359C-1CB5-4AAC-BADF-0EB227A9138F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCB359C-1CB5-4AAC-BADF-0EB227A9138F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCB359C-1CB5-4AAC-BADF-0EB227A9138F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCB359C-1CB5-4AAC-BADF-0EB227A9138F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7BE289-410E-425C-B7FB-B776099C8C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7BE289-410E-425C-B7FB-B776099C8C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7BE289-410E-425C-B7FB-B776099C8C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7BE289-410E-425C-B7FB-B776099C8C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E8F5DCC9-EEEB-4F66-9F2E-D01B515CFAF9} = {5A409F42-D342-4B21-B75A-75AABF413867}
+		{F42B30BC-F959-48F9-A21C-3A346952887A} = {E8F5DCC9-EEEB-4F66-9F2E-D01B515CFAF9}
+		{CFDD2AF8-1FA5-4A93-9F8A-6DF6AF5E6F7E} = {E8F5DCC9-EEEB-4F66-9F2E-D01B515CFAF9}
+		{7DCB359C-1CB5-4AAC-BADF-0EB227A9138F} = {E8F5DCC9-EEEB-4F66-9F2E-D01B515CFAF9}
+		{10F4B188-DB61-48C4-8EEE-AA618D2EF47E} = {5A409F42-D342-4B21-B75A-75AABF413867}
+		{5B7BE289-410E-425C-B7FB-B776099C8C2C} = {10F4B188-DB61-48C4-8EEE-AA618D2EF47E}
+	EndGlobalSection
+EndGlobal
