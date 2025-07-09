@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inmasys.Migrator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c650a76df7207cbbaee1a79643892f9748b6642")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09441aeb9cfc83b6046c0f7ab0b61db627a460fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inmasys.Migrator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inmasys.Migrator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
