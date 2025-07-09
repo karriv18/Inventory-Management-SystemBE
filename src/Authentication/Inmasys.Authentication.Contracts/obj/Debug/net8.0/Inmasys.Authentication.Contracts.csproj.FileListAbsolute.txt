@@ -1,0 +1,12 @@
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\bin\Debug\net8.0\Inmasys.Authentication.Contracts.deps.json
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\bin\Debug\net8.0\Inmasys.Authentication.Contracts.dll
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\bin\Debug\net8.0\Inmasys.Authentication.Contracts.pdb
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\Inmasys.Authentication.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\Inmasys.Authentication.Contracts.AssemblyInfoInputs.cache
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\Inmasys.Authentication.Contracts.AssemblyInfo.cs
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\Inmasys.Authentication.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\Inmasys.Authentication.Contracts.sourcelink.json
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\Inmasys.Authentication.Contracts.dll
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\refint\Inmasys.Authentication.Contracts.dll
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\Inmasys.Authentication.Contracts.pdb
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Contracts\obj\Debug\net8.0\ref\Inmasys.Authentication.Contracts.dll

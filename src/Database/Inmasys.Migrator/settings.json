@@ -1,0 +1,6 @@
+{
+    "Settings": {
+        "DatabaseName": "Inmasys", 
+        "ConnectionString":  "Host=localhost;Username=postgres;Password=karl1802;Database=Inmasys"
+    }
+}

@@ -1,0 +1,12 @@
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\bin\Debug\net8.0\Inmasys.Authentication.Application.deps.json
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\bin\Debug\net8.0\Inmasys.Authentication.Application.dll
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\bin\Debug\net8.0\Inmasys.Authentication.Application.pdb
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\Inmasys.Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\Inmasys.Authentication.Application.AssemblyInfoInputs.cache
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\Inmasys.Authentication.Application.AssemblyInfo.cs
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\Inmasys.Authentication.Application.csproj.CoreCompileInputs.cache
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\Inmasys.Authentication.Application.sourcelink.json
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\Inmasys.Authentication.Application.dll
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\refint\Inmasys.Authentication.Application.dll
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\Inmasys.Authentication.Application.pdb
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Authentication\Inmasys.Authentication.Application\obj\Debug\net8.0\ref\Inmasys.Authentication.Application.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xAebatgHtp5on4/CJwoixFh1ODoq1fT9xpokC1z+8Eg=",
+  "Source": "Inmasys.Authentication.Api",
+  "BasePath": "_content/Inmasys.Authentication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

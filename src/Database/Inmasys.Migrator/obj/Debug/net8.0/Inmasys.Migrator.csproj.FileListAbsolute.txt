@@ -1,0 +1,6 @@
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Database\Inmasys.Migrator\obj\Debug\net8.0\Inmasys.Migrator.csproj.AssemblyReference.cache
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Database\Inmasys.Migrator\obj\Debug\net8.0\Inmasys.Migrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Database\Inmasys.Migrator\obj\Debug\net8.0\Inmasys.Migrator.AssemblyInfoInputs.cache
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Database\Inmasys.Migrator\obj\Debug\net8.0\Inmasys.Migrator.AssemblyInfo.cs
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Database\Inmasys.Migrator\obj\Debug\net8.0\Inmasys.Migrator.csproj.CoreCompileInputs.cache
+D:\Programming\WebDev\ASP\Inventory-Management-SystemBE\src\Database\Inmasys.Migrator\obj\Debug\net8.0\Inmasys.Migrator.sourcelink.json

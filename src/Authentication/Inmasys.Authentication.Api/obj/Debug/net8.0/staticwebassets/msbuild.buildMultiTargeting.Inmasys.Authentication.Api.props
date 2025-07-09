@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Inmasys.Authentication.Api.props" />
+</Project>
